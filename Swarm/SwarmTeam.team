@@ -1,0 +1,6 @@
+#Robocode robot team
+#Mon Aug 21 14:10:23 BRT 2017
+team.members=Swarm.SwarmLeader*,Swarm.insect*,Swarm.insect*,Swarm.insect*,Swarm.insect*
+team.author.name=
+robocode.version=1.9.2.6
+team.description=Swarm Intelligence Based Robots

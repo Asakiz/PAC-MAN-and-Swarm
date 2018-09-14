@@ -1,0 +1,6 @@
+#Robocode robot team
+#Mon Aug 21 11:48:11 BRT 2017
+team.members=beeLeader.BeeLeader*,beeLeader.Bees*,beeLeader.Bees*,beeLeader.Bees*,beeLeader.Bees*
+team.author.name=
+robocode.version=1.9.2.6
+team.description=swarm intelligence
