@@ -1,2 +1,2 @@
 # PACMAN
-  Pacman game using different AI algorithm.
+  Pacman game using different AI algorithms.
